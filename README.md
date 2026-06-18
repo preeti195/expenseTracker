@@ -163,8 +163,3 @@ Database connection:
 - The frontend automatically sets Authorization header using [`axiosInstance`](frontend/expense-tracker/src/utils/axiosInstance.js).
 
 ---
-
-## Contributing
-- Fork, create a feature branch, open a PR.
-- Keep backend and frontend dependencies up to date and run linters.
--
